@@ -1,0 +1,42 @@
+## 22 Nov 2025 – random depot notes
+
+Some updates from around the depot today. KMRC-012 seems to have some election-related branding still on it.
+Marketing Dept said it’s priority 1, valid since starting of the month (1 Nov) and continuing till the end (30 Nov).
+High visibility coaches needed as per them.
+
+Also heard KMRC-004 has some tourism posters, but it’s lower priority (maybe lvl 2?).
+Ops team approved it. I think the wrapping is only outside, not inside. Should last mid-Nov (around 15th) up to mid-Dec (roughly 15th).
+
+---
+
+Cleaning updates:
+• Train 012 should get its quick daily clean sometime late night, around 11 PM to 11:45 PM. Team A is handling it. Status: scheduled.
+
+• KMRC-019 is already under detailing… started around 10 PM and will probably continue past midnight till 1 AM. “Detail Squad” team is on it. Currently in progress.
+
+---
+
+Stabling positions today at Muttom Depot:
+KMRC-012 parked on track 7, berth B2, oriented UP. Approximately 4.5 meters from buffer, clearance okay.
+KMRC-018 put on track 5, berth A1, facing DN side. Only 3.2m from buffer. Noted restricted movement on left side.
+
+---
+
+Fitness certificates:
+Train 012 – rolling stock valid till 10 Dec 2025, signaling till 7 Dec, telecom till 15 Dec. Overall status: fit for service.
+Train 018 – stock valid only till 28 Nov, signal till 27 Nov, telecom till 1 Dec. Needs checks soon.
+
+---
+
+Job cards:
+For KMRC-018, JC-4471 is pending (Brake Inspection). Mechanical Team B is assigned, due tomorrow (23 Nov).
+
+KMRC-012 had a coupler torque check, JC-4492, already completed yesterday (21 Nov).
+
+---
+
+Mileage readings today:
+012 – prev 288120 km, now 288650 km, so roughly 530 km difference. Normal usage.
+
+018 – earlier 320400, today 320900… difference ~500 km. No remarks given.
+
