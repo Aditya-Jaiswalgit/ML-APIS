@@ -29,3 +29,5 @@ scikit-learn
 fastapi
 uvicorn[standard]
 
+python-multipart
+
